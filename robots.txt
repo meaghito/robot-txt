@@ -1,0 +1,71 @@
+User-agent: *
+Disallow: /
+User-agent: Googlebot
+Disallow: /myadmin/
+Disallow: /mylogin/
+Disallow: /pages/
+Disallow: /img/
+Allow: /img/avatarme.PNG
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: sqlmap
+Disallow: /
+
+User-agent: RED_HAWK
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebSnake
+Disallow: /
+
+User-agent: BlackWidow
+Disallow: /
+
+User-agent: HTTP Weazel
+Disallow: /
+
+User-agent: Web Downloader
+Disallow: /
+
+User-agent: XBruteForcer
+Disallow: /
+
+User-agent: Blazy
+Disallow: /
+
+User-agent: w3m
+Disallow: /
+
+User-agent: FHXHashKiller
+Disallow: /
+
+User-agent: hash
+Disallow: /
+
+User-agent: Webstripper
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Offline Commander
+Disallow: /
+
+User-agent: leech
+Disallow: /
+
+User-agent: HTTrack Website Copier
+Disallow: /
